@@ -152,5 +152,22 @@ namespace JsonBuilder01
             }
         }
 
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult dlg = MessageBox.Show("Are you sure to Exit?", "Exit", MessageBoxButtons.YesNo);
+
+            if (dlg == DialogResult.Yes)
+            {
+    
+                e.Cancel = false;
+
+            }
+            if (dlg == DialogResult.No)
+            {
+                e.Cancel = true;
+
+            }
+        }
+
     }
 }

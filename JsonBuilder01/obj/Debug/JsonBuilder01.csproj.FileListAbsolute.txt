@@ -1,7 +1,6 @@
 E:\ROOT\RAVG\Program\JsonBuilder01\JsonBuilder01\bin\Debug\JsonBuilder01.exe.config
 E:\ROOT\RAVG\Program\JsonBuilder01\JsonBuilder01\bin\Debug\JsonBuilder01.exe
 E:\ROOT\RAVG\Program\JsonBuilder01\JsonBuilder01\bin\Debug\JsonBuilder01.pdb
-E:\ROOT\RAVG\Program\JsonBuilder01\JsonBuilder01\obj\Debug\JsonBuilder01.csprojResolveAssemblyReference.cache
 E:\ROOT\RAVG\Program\JsonBuilder01\JsonBuilder01\obj\Debug\JsonBuilder01.Form1.resources
 E:\ROOT\RAVG\Program\JsonBuilder01\JsonBuilder01\obj\Debug\JsonBuilder01.Properties.Resources.resources
 E:\ROOT\RAVG\Program\JsonBuilder01\JsonBuilder01\obj\Debug\JsonBuilder01.csproj.GenerateResource.Cache
